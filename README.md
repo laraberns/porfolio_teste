@@ -2,8 +2,6 @@
 
 Olá, Bem vindo ao meu projeto de portfólio.
 
-![imagem_do_portfolio](C:\Users\Lara\Desktop\portfolio\assets\imagem_do_portfolio.png)
-
 ## Ferramentas utilizadas:
 
 * HTML
