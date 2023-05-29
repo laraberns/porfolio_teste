@@ -2,7 +2,7 @@
 
 Olá, Bem vindo ao meu projeto de portfólio.
 
-![imagem_do_portfolio](https://github.com/laraberns/portfolio/assets/133805423/627330d4-d651-4dc5-8c3e-7f30bcdaf422)
+![imagem_do_portfolio](C:\Users\Lara\Desktop\portfolio\assets\imagem_do_portfolio.png)
 
 ## Ferramentas utilizadas:
 
